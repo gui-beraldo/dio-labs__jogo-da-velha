@@ -2,7 +2,7 @@
 
 `jogo-da-velha` foi recriado durante a aula *"Criando seu próprio jogo da velha com HTML e Javascript"* da [Digital Innovation One Inc.](https://www.dio.me/)
 
-##### [Para jogar clique aqui!](https://gui-beraldo.github.io/dio-labs__jogo-da-velha/)
+### [Para jogar clique aqui!](https://gui-beraldo.github.io/dio-labs__jogo-da-velha/)
 
 *Recriamos um jogo da velha*, utilizando somente **HTML** para estruturar nosso site, **CSS** para estilizar e dar vida a ele, e **JavaScript** para criarmos toda suas interações, desde a *escolha do jogador*, *efetivar uma jogada* e *dar um vencedor ao jogo*.
 
